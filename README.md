@@ -1,3 +1,13 @@
+# DESCRIPTION:
+a very accurate and fast tool that can find unfiltered/reflected characters on URLs that has parameters 
+
+it helps bug bounty hunters and penetration testers to find find unfiltered characters in URLs parameters
+
+finding unfiltered characters can lead to other vulnerabilities like XSS and HTMLI and more
+
+
+
+
 # INSTALLATION:
 
 1 `git clone https://github.com/LF-H0/REFLO.git`
