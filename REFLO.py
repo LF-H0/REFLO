@@ -7,7 +7,7 @@ import signal
 from urllib.parse import quote
 from colorama import Fore, Style
 
-CHARACTERS = ["<", ">", "'", "/", "(", ";", ")", "{", ":", "}", "\\", "=", "$", "`", "|"]
+CHARACTERS = ["<", '"', ">", "'", "/", "(", ";", ")", "{", ":", "}", "\\", "=", "$", "`", "|"]
 KEYWORD = "lforef74710l"
 MAX_CONCURRENT_REQUESTS = 15  
 
